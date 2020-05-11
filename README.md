@@ -1,5 +1,8 @@
 # Client Authentication Attempt Counter Demo Plugin
 
+[![Quality](https://curity.io/assets/images/badges/client-authentication-attempt-counter-quality.svg)](https://curity.io/resources/code-examples/status/)
+[![Availability](https://curity.io/assets/images/badges/client-authentication-attempt-counter-availability.svg)](https://curity.io/resources/code-examples/status/)
+
 This is a simple example event listener SDK Plugin for the Curity Identity Server.
 
 It demonstrates how to plug in to the event listener framework (introduced in version 2.2) by registering two event 
